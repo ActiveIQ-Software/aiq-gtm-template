@@ -1,0 +1,6 @@
+homepage: "https://activeiq.co"
+documentation: "https://github.com/ActiveIQ-Software/aiq-gtm-template#readme"
+versions:
+  # Newest first. Each sha is the commit that holds that version of template.tpl.
+  - sha: REPLACE_WITH_COMMIT_SHA
+    changeNotes: First release.
